@@ -1,0 +1,13 @@
+{
+  "name": "sign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Maksim Kiselev",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.5.1"
+  },
+  "scripts": {
+    "run": "node scripts/verify.js"
+  }
+}
